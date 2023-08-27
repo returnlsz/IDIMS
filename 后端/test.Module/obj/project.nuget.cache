@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Had6WfxY6FdhCQn/jtX1dvBOKnkcZBYGKmmh4hatcMZ6/wlJfqShLRzQFkBw3uX6CjNszPFl2f8D4DUL/OjHpQ==",
+  "dgSpecHash": "Q33y3lhKW0XtKK7WT3D47X83EsdctQ+QreTKkbhJDbstkq1WVxxYPTyqFTjYOh5nmRdp4B3McLXJIjuEOXB+HA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Module\\test.Module.csproj",
+  "projectFilePath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Module\\test.Module.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leon\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Leon\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1G5+/jkqUpUlYQoLywdWL75LJCaI34tI/2XRIHmKDFz7Ql6qT/VAuJlPog6ogA33YOngsGtHMenQL20z5DvUvQ==",
+  "dgSpecHash": "URiyXIlifL7UTF0sGvP3sXFWxQCPEWT2KsFvzNzLFvuOfUVry8nHHbQY5SCpEaqq3P3y1t7T5Iy8xPeBE8Vo2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Service\\test.Service.csproj",
+  "projectFilePath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Service\\test.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leon\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Leon\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.19\\microsoft.aspnetcore.authentication.jwtbearer.6.0.19.nupkg.sha512",

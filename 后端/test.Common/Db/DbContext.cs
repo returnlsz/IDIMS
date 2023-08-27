@@ -7,6 +7,7 @@ using SqlSugar;
 
 namespace test.Common.Db
 {
+    //测试用，最后改成实际操作的
     public class DbContext
     {
         public static SqlSugarClient db = new SqlSugarClient(new ConnectionConfig()

@@ -11,12 +11,10 @@ namespace test.WebAPI.Controllers
     [ApiController]
     public class DisinfectionController : ControllerBase
     {
-        private readonly IStaffService _staffService;
         private readonly IDisinfectionService _disinfectionService;
 
-        public DisinfectionController(IStaffService staffService, IDisinfectionService disinfectionService)
+        public DisinfectionController( IDisinfectionService disinfectionService)
         {
-            _staffService = staffService;
             _disinfectionService = disinfectionService;
         }
 
@@ -36,9 +34,11 @@ namespace test.WebAPI.Controllers
                 disinfection = input.disinfection
             };
 
-            _disinfectionService.AddRecord(record);
-
-            return Ok("Disinfection record added successfully");
+            bool result=_disinfectionService.AddRecord(record);
+            if (result == true)
+                return Ok("Disinfection record added successfully");
+            else
+                return BadRequest("Fail to insert into database");
         }
     }
 

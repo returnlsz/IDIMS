@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test\\test.WebAPI.csproj": {}
+    "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test\\test.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Common\\test.Common.csproj": {
+    "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Common\\test.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Common\\test.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Common\\test.Common.csproj",
         "projectName": "test.Common",
-        "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Common\\test.Common.csproj",
+        "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Common\\test.Common.csproj",
         "packagesPath": "C:\\Users\\Leon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Common\\obj\\",
+        "outputPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Module\\test.Module.csproj": {
+    "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Module\\test.Module.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Module\\test.Module.csproj",
+        "projectUniqueName": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Module\\test.Module.csproj",
         "projectName": "test.Module",
-        "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Module\\test.Module.csproj",
+        "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Module\\test.Module.csproj",
         "packagesPath": "C:\\Users\\Leon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Module\\obj\\",
+        "outputPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Module\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Service\\test.Service.csproj": {
+    "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Service\\test.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Service\\test.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Service\\test.Service.csproj",
         "projectName": "test.Service",
-        "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Service\\test.Service.csproj",
+        "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Service\\test.Service.csproj",
         "packagesPath": "C:\\Users\\Leon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Service\\obj\\",
+        "outputPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,11 +156,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Common\\test.Common.csproj": {
-                "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Common\\test.Common.csproj"
+              "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Common\\test.Common.csproj": {
+                "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Common\\test.Common.csproj"
               },
-              "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Module\\test.Module.csproj": {
-                "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Module\\test.Module.csproj"
+              "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Module\\test.Module.csproj": {
+                "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Module\\test.Module.csproj"
               }
             }
           }
@@ -203,14 +203,14 @@
         }
       }
     },
-    "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test\\test.WebAPI.csproj": {
+    "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test\\test.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test\\test.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test\\test.WebAPI.csproj",
         "projectName": "test.WebAPI",
-        "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test\\test.WebAPI.csproj",
+        "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test\\test.WebAPI.csproj",
         "packagesPath": "C:\\Users\\Leon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test\\obj\\",
+        "outputPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -227,8 +227,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Service\\test.Service.csproj": {
-                "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Service\\test.Service.csproj"
+              "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Service\\test.Service.csproj": {
+                "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Service\\test.Service.csproj"
               }
             }
           }

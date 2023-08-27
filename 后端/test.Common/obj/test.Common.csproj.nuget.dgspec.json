@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Common\\test.Common.csproj": {}
+    "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Common\\test.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Common\\test.Common.csproj": {
+    "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Common\\test.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Common\\test.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Common\\test.Common.csproj",
         "projectName": "test.Common",
-        "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Common\\test.Common.csproj",
+        "projectPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Common\\test.Common.csproj",
         "packagesPath": "C:\\Users\\Leon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\test\\test.Common\\obj\\",
+        "outputPath": "C:\\Users\\Leon\\Desktop\\数据库课设\\mygit\\IDIMS\\后端\\test.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leon\\AppData\\Roaming\\NuGet\\NuGet.Config",

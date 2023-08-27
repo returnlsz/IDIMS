@@ -7,12 +7,8 @@ using test.Module.Entities;
 
 namespace test.Service.Management.DisinfectionRecord
 {
-    public interface IStaffService
-    {
-        bool DoesStaffExist(string staffId);
-    }
     public interface IDisinfectionService
     {
-        void AddRecord(disinfection_record record);
+        bool AddRecord(disinfection_record record);
     }
 }

@@ -6,6 +6,10 @@ using Microsoft.IdentityModel.Tokens;
 using test.Service.Config;
 using test.Service.Token;
 using test.Service.User;
+using test.Service.Management;
+using test.Service.Management.DisinfectionRecord;
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,6 +29,9 @@ builder.Services.AddCors(options =>
 
 builder.Services.Configure<JWTToken>(builder.Configuration.GetSection("JWTToken"));
 builder.Services.AddTransient<IJWTService, JWTService>();
+
+//添加消杀信息记录依赖
+builder.Services.AddTransient<IDisinfectionService,ServiceSolution>();
 
 //验证
 JWTToken token = new JWTToken();
